@@ -1,12 +1,8 @@
 {
-    "launch": {
-        "version": "0.2.0",
-        "configurations": []
-    },
-    "folders": [
-        {
-            "name": "desktop-tutorial",
-            "path": "../Z Gita/desktop-tutorial"
-        }
-    ]
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
 }
