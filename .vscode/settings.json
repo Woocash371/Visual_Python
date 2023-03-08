@@ -3,5 +3,6 @@
     "python.linting.enabled": true,
     "editor.fontFamily": "'Fira Code'",
     "editor.fontLigatures": true,
-    "editor.fontSize": 15
+    "editor.fontSize": 15,
+    "python.analysis.typeCheckingMode": "basic"
 }
